@@ -216,4 +216,3 @@ To program the AVR fuses and the .hex program type the command:
 $ make install
 ```
 ***
-Autor: Alfredo Orozco de la Paz
